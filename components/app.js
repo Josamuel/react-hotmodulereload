@@ -29,7 +29,8 @@ export default class App extends Component {
     return (
       <header>
         <div>
-          WHADDUP JASON hry hrysdfsdf
+          Hey there check out how hot module reload works by saving
+          App component 
         </div>
         <div>{counter}</div>
       </header>
